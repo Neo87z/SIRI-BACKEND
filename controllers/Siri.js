@@ -12,13 +12,13 @@ const jwt = require('jsonwebtoken')
 const { Configuration, OpenAIApi } = require("openai");
 const speech = require('@google-cloud/speech');
 const Resemble = require('@resemble/node')
-
+const dotenv = require('dotenv');
 const client = new speech.SpeechClient();
 const textToSpeech = require('@google-cloud/text-to-speech')
 const clientSpe = new textToSpeech.TextToSpeechClient();
 const fs = require("fs")
 const util = require("util")
-
+dotenv.config();
 
 module.exports = function () {
 
@@ -53,7 +53,7 @@ module.exports = function () {
         try {
 
             const configuration = new Configuration({
-                apiKey: "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",
+                apiKey: process.env.API_KEY,
             });
             const openai = new OpenAIApi(configuration);
 
