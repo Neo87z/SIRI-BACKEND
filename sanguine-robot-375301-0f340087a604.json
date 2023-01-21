@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sanguine-robot-375301",
+  "private_key_id": "0f340087a60413be671e7f4f76227a0f87f02d52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4cvzPBWclivk7\nZzghtV7+la+EoWhhWGpZHtNXpapu14TnjVXeGkPIvRk1gLBb4z6Av7HApaf0A5oo\ntunxolLOC5j4+htnnuzmxrJxBBkCxUIYnQbkiVuyMP1IVuoFyVVM8LyvHuesi0Jz\nW9KWPTJmCnyoAUpGqOm+18H0B3wRp4djV0d4BvkwSU716UCzRtUmjB1N811tSMCW\n8BKgc6slBkyw2ickmGofYFF4ahz1BN1wKsol76wFfH7juJSOC4ujHeCYKzqtsB7F\np0QqA8RKwrkXqCtS6gL1E+FvOxhgRhY6Ggasj0IhQUwY0FEUMIA3qcuD6WgcAlO+\nZWQB2TEtAgMBAAECggEATb+ikv0bCnc3MXQD9CmInlWoQ4bqAcaMJX7Z5SMe4VQV\nYKlx3YpCslYLT0Msk78JNKoZGjR5xGDUVX8sw78BmnrHA4Qhkx8piumMhBkPFdzi\nTI+8PQ8tSMJfsWN5h/Di9OixEDw9ubyFySyWat/m455eB09r6LcAuIIn7l5NTP8Q\nx4sqyGXHq4t25Ow1sirqaxve9gM1OdfnNocr7jPQXqtmjtcauugwK98lzCAVxUFJ\nPEX7jyxJvC1x+bAObLGYTmamoHF0DWCJMosCPEStXu9fhat3vIrBkN5uhw8PEpZj\nYm3GWdoz23V0f/QCcTSmthiHt8QDkKnA35AwkOcn/QKBgQD8v7nSSHax0SiFtbsO\nOESTX89uVWgiR99vPo9URM7zm0mujJUY5I6IepStYyjCJsUQBZfAHyaWQTxFT/oM\npo7AdSieo3kwcVGLGB6ATxu0axDHGtknqGLzpakZqFiLHNssf22nUnxEdf9mwVP5\nuCtGda60tOLAOUCUzIqNtDA7bwKBgQC60luv4wXBaiBwbrfcjb2vaeEcfS4wP2nO\n8hqk3HAonk1kuwclo866yWpjHnodqLes5LFFAmKVfSmMFsdl+I6a0xPIZBCtzwOG\nCUG8XWU+Wetlb130G1bOQnPgemPVhWwGeh4/PGotXoPGbsAWoLASfJZnvADewivU\nQ93uXAt/IwKBgQDJsQ3OOrlNSMV3fgAZZtmCaXCUcV86C/THRzsFWitzxrXTrqfE\nR49eZcODYZ/C30FeebgRPkqCmOhJv3qg4cEE3/lcLsOk3qjdwI+GgJpxLQcke85S\nkVL1b3sz2F1gFdTo+387iN1VnHwFOb2Th14xSfPyjG5uSsG4fEkMr3/VzQKBgE6t\naI+aPEJIP4EaH7RyvP+yx2sIDPukuRq+OxpS+6kfgdh6K3helCF10agMncD/3Nqj\nNUSqzHnITEcDENaQ5v2tBxfNjHimRgWcwGJjss+fbtM5I4g6O0SCF+rhoEm79tKD\ne1mGR/DzbOuUmLDu2zft4Cmvs24ct/ic3EoV2YGhAoGBAJuS1rwsM9NHgu2lCi0h\nYE417CHQq1zwfNZh9SbxWx+4qsSkzRmU2+orfTLzM2hSi/6/SAPVTB4tA1USlgyq\n6gDcnhCTjOlXGvJ0bXXw3jWQAn/tJG1Da33/OFEcGkeBRyJMYb8ziVwhtDLta5Av\nHWz8IDtwhANtfYCxatWJsHx3\n-----END PRIVATE KEY-----\n",
+  "client_email": "siritest@sanguine-robot-375301.iam.gserviceaccount.com",
+  "client_id": "113977995711011221991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/siritest%40sanguine-robot-375301.iam.gserviceaccount.com"
+}
